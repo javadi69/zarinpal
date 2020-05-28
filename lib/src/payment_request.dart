@@ -97,8 +97,8 @@ class PaymentRequest {
       "Amount": amount,
       "Description": description,
       "CallbackURL": callBackURL,
-      "mobile": mobile,
-      "email": email,
+      "Mobile": mobile,
+      "Email": email,
     };
   }
 }
